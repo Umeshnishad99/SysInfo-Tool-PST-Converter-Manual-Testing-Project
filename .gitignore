@@ -1,0 +1,11 @@
+
+# Exclude generated conversion output
+/OUTPUT file/
+
+# Do not upload PST/OST test data
+*.pst
+*.ost
+
+# Exclude temporary files
+*.tmp
+*.log
